@@ -1,0 +1,20 @@
+[project]
+name = "book-manager"
+version = "0.1.0"
+description = "A library management system built with Python OOP"
+authors = [
+    {name = "evens",email = "2584511473@qq.com"}
+]
+requires-python = ">=3.13"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "pytest (>=9.2.0,<10.0.0)"
+]

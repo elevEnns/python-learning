@@ -1,0 +1,46 @@
+2026-11-02 08:50:59,637 - INFO - Book added: Python for Beginners
+2026-11-02 08:50:59,637 - INFO - User added: 张三
+2026-11-02 08:50:59,637 - INFO - Python for Beginners borrowed by 张三
+2026-11-02 08:50:59,637 - INFO - Python for Beginners returned by 张三
+2026-11-02 08:50:59,637 - INFO - Python for Beginners borrowed by 张三
+2026-11-02 08:57:55,405 - INFO - Book added: Python for Beginners
+2026-11-02 08:57:55,405 - INFO - User added: 张三
+2026-11-02 08:57:55,405 - INFO - Python for Beginners borrowed by 张三
+2026-11-02 08:57:55,405 - INFO - Python for Beginners returned by 张三
+2026-11-02 08:57:55,405 - INFO - Python for Beginners borrowed by 张三
+2026-11-02 08:57:55,405 - WARNING - Book not found
+2026-11-02 08:58:23,650 - INFO - Book added: Python for Beginners
+2026-11-02 08:58:23,650 - INFO - User added: 张三
+2026-11-02 08:58:23,650 - INFO - Python for Beginners borrowed by 张三
+2026-11-02 08:58:23,650 - INFO - Python for Beginners returned by 张三
+2026-11-02 08:58:23,650 - WARNING - Book not found
+2026-11-02 09:01:24,013 - INFO - Book added: Python for Beginners
+2026-11-02 09:01:24,013 - INFO - User added: 张三
+2026-11-02 09:01:24,013 - INFO - Python for Beginners borrowed by 张三
+2026-11-02 09:01:24,013 - INFO - Python for Beginners returned by 张三
+2026-11-02 09:01:37,823 - INFO - Book added: Python for Beginners
+2026-11-02 09:01:37,823 - INFO - User added: 张三
+2026-11-02 09:01:37,823 - INFO - Python for Beginners borrowed by 张三
+2026-11-02 09:01:37,823 - INFO - Python for Beginners returned by 张三
+2026-11-02 09:02:14,269 - INFO - Book added: Python for Beginners
+2026-11-02 09:02:14,270 - INFO - User added: 张三
+2026-11-02 09:02:14,270 - INFO - Python for Beginners borrowed by 张三
+2026-11-02 09:02:14,270 - INFO - Python for Beginners returned by 张三
+2026-11-02 09:02:14,270 - WARNING - Book not found
+2026-11-02 09:02:19,147 - INFO - Book added: Python for Beginners
+2026-11-02 09:02:19,148 - INFO - User added: 张三
+2026-11-02 09:02:19,148 - INFO - Python for Beginners borrowed by 张三
+2026-11-02 09:02:19,148 - INFO - Python for Beginners returned by 张三
+2026-11-02 09:04:48,214 - INFO - Book added: Python for Beginners
+2026-11-02 09:04:48,215 - INFO - User added: 张三
+2026-11-02 09:04:48,215 - INFO - Python for Beginners borrowed by 张三
+2026-11-02 09:09:27,132 - INFO - Book added: Python for Beginners
+2026-11-02 09:09:27,132 - INFO - User added: 张三
+2026-11-02 09:09:27,132 - INFO - Python for Beginners borrowed by 张三
+2026-11-02 09:09:27,132 - WARNING - Book not available
+2026-11-02 09:10:28,491 - INFO - Book added: Python for Beginners
+2026-11-02 09:10:28,491 - INFO - User added: 张三
+2026-11-02 09:10:28,491 - INFO - Python for Beginners borrowed by 张三
+2026-11-02 09:10:28,491 - INFO - Python for Beginners returned by 张三
+2026-11-02 09:10:28,491 - INFO - Python for Beginners borrowed by 张三
+2026-11-02 09:10:28,491 - WARNING - Book not available
